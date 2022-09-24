@@ -1,0 +1,21 @@
+.list-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.title-paragraph {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.button {
+  color: #ff0b37;
+  background-color: white;
+  border: solid 1px #ff0b37;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  height: 20px;
+  width: 50px;
+  font-size: 10px;
+}
